@@ -13,3 +13,4 @@ public class DecConfiguration {
         System.out.println("N-arg constructor in DecConfiguration");
     }
 }
+
